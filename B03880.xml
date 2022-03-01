@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A loyal subjects admonition, or, A true song of Brittains civil wars. Some with blind zeal ... To the tune of General Moncks right march, that was founded before him from Scotland to London, or the Highlanders march.</title>
+            <author>T. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03880</idno>
+            <idno type="STC">Wing J39B</idno>
+            <idno type="STC">ESTC R234037</idno>
+            <idno type="EEBO-CITATION">47012482</idno>
+            <idno type="OCLC">ocm 47012482</idno>
+            <idno type="VID">174448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174448)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2689:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A loyal subjects admonition, or, A true song of Brittains civil wars. Some with blind zeal ... To the tune of General Moncks right march, that was founded before him from Scotland to London, or the Highlanders march.</title>
+                  <author>T. J.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Grove ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 1 illustration.</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>Signed at end: "Composed by loyal T.J."</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174448:1"/>
+            <!-- PDF PAGE 19 -->
+            <head>A Loyal Subjects Admonition, or, a true Song of <hi>Brittains Civil Wars.</hi>
+            </head>
+            <argument>
+               <l>Some with blind zeal, Religion did profeſſe,</l>
+               <l>Murder'd their lawful King, oh wickedneſſe</l>
+               <l>Scripture nor Chronicle they could not bring,</l>
+               <l>To ſhew what ſubjects ever judged their King.</l>
+               <l>King Charls beheaded was wee underſtand,</l>
+               <l>Proud Rebels they did live upon his Land,</l>
+               <l>But now theſe Rebels are diſperſt and gone,</l>
+               <l>Few honeſt men I think for them make moan.</l>
+               <l>If any man be angry at this Song,</l>
+               <l>What e're he thinks hee'd beſt to hold his tongue.</l>
+            </argument>
+            <opener>To the Tune of General Moncks right march, that was ſounded before him from Scotland to London, or the Highlanders march.</opener>
+            <lg>
+               <l>GReat controverſie hath béen in <hi>England,</hi>
+               </l>
+               <l>but of y<hi rend="sup">e</hi> juſt cauſe there is few men do know,</l>
+               <l>Rebellion for certain, as I underſtand,</l>
+               <l>hath beáen the fore-runner of ſorrow and woe,</l>
+               <l>For every Presbyter,</l>
+               <l>Struck at the Myter,</l>
+               <l>Till they had gotten the world in a ſting,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but Monck hath confounded,</hi>
+                  </l>
+                  <l>
+                     <hi>each prick-eard round-head,</hi>
+                  </l>
+                  <l>
+                     <hi>Now let's be Loyal and true to our King,</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The <hi>Scots</hi> did adventure at firſt to Rebel</l>
+               <l>And <hi>Engliſhmen</hi> quickly this Leſſon did learn,</l>
+               <l>But <hi>Lucifer</hi> tumbled from Heaven to Hell,</l>
+               <l>becauſe his ambition he would not diſcern,</l>
+               <l>And therefore be wary,</l>
+               <l>leſt he enſnare ye,</l>
+               <l>That count Rebellion a plauſible thing,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but Monck hath confounded,</hi>
+                  </l>
+                  <l>
+                     <hi>each prick-eard round-head,</hi>
+                  </l>
+                  <l>
+                     <hi>Now let's be Loyal and true to our King.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The City of <hi>London</hi> was zealous and hot,</l>
+               <l>to mannage the cauſe of the <hi>Scots</hi> government</l>
+               <l>For ten thouſand ſouldiers they raiſed I wot;</l>
+               <l>to go a King catching it was their intent;</l>
+               <l>rich they would make him,</l>
+               <l>if they could take him,</l>
+               <l>Such fair pretences through <hi>Britain</hi> did ring,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But Monck hath confounned,</hi>
+                  </l>
+                  <l>
+                     <hi>each prick-eard round-head,</hi>
+                  </l>
+                  <l>
+                     <hi>Now let's be Loyal and true to our King.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Much like a Partridge the King they did chaſe,</l>
+               <l>from mountain to mountain they did him purſue</l>
+               <l>They quickly diſperſed all the Royall race,</l>
+               <l>with their Loyal ſubjects, theſe Verſes are true,</l>
+               <l>then any Lay-man,</l>
+               <l>Brewer or Dray-man,</l>
+               <l>Could make a Throne or a Pulpit to ring,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but Monck hath confounded,</hi>
+                  </l>
+                  <l>
+                     <hi>each prick-eard round-head,</hi>
+                  </l>
+                  <l>
+                     <hi>Now let's be Loyal and true to our King.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>WHen with their baſe power they'd con<g ref="char:EOLhyphen"/>quered his friends</l>
+               <l>they quickly ſurpriſed the Kings Majeſty,</l>
+               <l>Theſe zealots Religion, was for their own ends,</l>
+               <l>their Oath of Allegiance they then did defy</l>
+               <l>a Scaffold erected,</l>
+               <l>Murder effected;</l>
+               <l>Heathens ne'r acted ſo horrid a thing,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but Monck hath confounded,</hi>
+                  </l>
+                  <l>
+                     <hi>each prick-eard round-head,</hi>
+                  </l>
+                  <l>
+                     <hi>Now let's be Loyal and true to our King.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But while theſe Rebells did thus tyrannize,</l>
+               <l>a terrible Governour quickly aroſe,</l>
+               <l>Although Kingly government they did deſpiſe,</l>
+               <l>'twas treaſon to meddle with <hi>Olivers</hi> Noſe,</l>
+               <l>for he like a Hector,</l>
+               <l>was their Protector,</l>
+               <l>Rebells had ſhelter under his wing:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but Monck hath confounded,</hi>
+                  </l>
+                  <l>
+                     <hi>each prick-eard round-head,</hi>
+                  </l>
+                  <l>
+                     <hi>Now let's be Loyal and true to our King.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>This Tyrants government laſted too long,</l>
+               <l>for Rebels in <hi>England</hi> did dayly increaſe,</l>
+               <l>Yet none but poor Cavaléers ſuffer'd wrong,</l>
+               <l>while every Aſs was made Iuſtice of Peace,</l>
+               <l>and Cabys muſt ſtand ſir,</l>
+               <l>with Cap in hand ſir,</l>
+               <l>At their command ſir, in every thing:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but Monck hath confounded,</hi>
+                  </l>
+                  <l>
+                     <hi>each prick-eard round-head,</hi>
+                  </l>
+                  <l>
+                     <hi>Now let's be Loyal and true to our King.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Worſhipfull <hi>Walton</hi> got <hi>Sommerſome</hi> Park,</l>
+               <l>without any labor or taking of pains,</l>
+               <l>And <hi>Wagſtaffe</hi> that Major was counted a Spark;</l>
+               <l>although he did live upon other mens means,</l>
+               <l>and <hi>Rainsborough</hi> nimble,</l>
+               <l>ſleighted his Thimble,</l>
+               <l>When <hi>Higham</hi> Park ſuch profit did bring,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but Monck hath confounded,</hi>
+                  </l>
+                  <l>
+                     <hi>each prick-eard round-head,</hi>
+                  </l>
+                  <l>
+                     <hi>Now let's be Loyal and true to our King.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Theſe pittiful fellows are all put to flight,</l>
+               <l>which thought that their pleaſures would never ha' end</l>
+               <l>For they in ambition did take ſuch delight,</l>
+               <l>there's many ſuppoſes they'l be hang'd ere they'l mend</l>
+               <l>for they in their bravery,</l>
+               <l>acted ſuch knavery,</l>
+               <l>Curbing true ſubjects in every thing,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but Monck hath confounded,</hi>
+                  </l>
+                  <l>
+                     <hi>each prick-eard round-head,</hi>
+                  </l>
+                  <l>
+                     <hi>Now let us be loyal and true to our King,</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I wiſh with my heart all the Kings enemys</l>
+               <l>both Rebels and Traitors on <hi>Tyborn</hi> may ſwing</l>
+               <l>That every moment do miſchéef deviſe,</l>
+               <l>and can't be content with a Proteſtant King,</l>
+               <l>Eſquire <hi>Dun</hi> take them,</l>
+               <l>never forſake them</l>
+               <l>Vntill thou make them péep through a ſtring,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>now Monck hath confounded,</hi>
+                  </l>
+                  <l>
+                     <hi>each prick-eard round-head,</hi>
+                  </l>
+                  <l>
+                     <hi>Now let's be loyal and true to our King.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <byline>Compoſed by loyal T. J.</byline>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for F. Grove on Snow-hill.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
